@@ -5,12 +5,23 @@
 ![giphy](https://github.com/e-basi/War-Game/assets/93174387/4409eaa4-8db6-46ff-ad55-934688e59a8d)
 
 
-# Features
-**Card Dealing:** The deal/1 function shuffles and deals cards to two players, ensuring an even distribution.
-**Round Execution:** The roundExecution/3 function handles the core game logic, determining the outcome of each round.
-**Card Comparison:** The card_Comparison/5 function compares the top cards of each player to decide the winner of the round.
-**Game Strategy:** The gameStrategy/3 function manages the game state when players draw cards of equal rank.
-**Customizable Game Logic:** Easily modify and extend the game logic with additional helper functions.
+### Features
+
+**Card Dealing:**  
+The `deal/1` function shuffles and deals cards to two players, ensuring an even distribution.
+
+**Round Execution:**  
+The `roundExecution/3` function handles the core game logic, determining the outcome of each round.
+
+**Card Comparison:**  
+The `card_Comparison/5` function compares the top cards of each player to decide the winner of the round.
+
+**Game Strategy:**  
+The `gameStrategy/3` function manages the game state when players draw cards of equal rank.
+
+**Customizable Game Logic:**  
+Easily modify and extend the game logic with additional helper functions.
+
 ## Installation
 
 **Prerequisites**
