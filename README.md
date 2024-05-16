@@ -1,7 +1,10 @@
 # War Card Game in Elixir
 
 **Welcome to the War Card Game implemented in Elixir! This repository contains the code for the classic card game "War" using the Elixir programming language. The project features a functional approach to game logic, including card dealing, round execution, and determining the winner.**
-##Features
+
+
+
+# Features
 Card Dealing: The deal/1 function shuffles and deals cards to two players, ensuring an even distribution.
 Round Execution: The roundExecution/3 function handles the core game logic, determining the outcome of each round.
 Card Comparison: The card_Comparison/5 function compares the top cards of each player to decide the winner of the round.
