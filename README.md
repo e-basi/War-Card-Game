@@ -2,6 +2,7 @@
 
 **Welcome to the War Card Game implemented in Elixir! This repository contains the code for the classic card game "War" using the Elixir programming language. The project features a functional approach to game logic, including card dealing, round execution, and determining the winner.**
 
+![giphy](https://github.com/e-basi/War-Game/assets/93174387/4409eaa4-8db6-46ff-ad55-934688e59a8d)
 
 
 # Features
